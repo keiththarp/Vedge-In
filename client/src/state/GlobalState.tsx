@@ -1,7 +1,12 @@
 import React, { createContext, useReducer, useContext } from "react";
 import IUser from "../interfaces/IUser";
 
+/*
 
+******** Everything below here is just bits and pieces of
+******** Copy paste to help gt me started
+
+*/
 
 
 import {
